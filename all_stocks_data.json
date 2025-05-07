@@ -1,0 +1,3002 @@
+[
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-09-25 00:00:00-04:00",
+        "open_price": 224.6827959331431,
+        "current_price": 226.1212158203125,
+        "high_price": 227.04020291666632,
+        "low_price": 223.77380760174057,
+        "trading_volume": 42308700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-09-26 00:00:00-04:00",
+        "open_price": 227.05019905798116,
+        "current_price": 227.26995849609375,
+        "high_price": 228.24887720276465,
+        "low_price": 225.16227678839184,
+        "trading_volume": 36636700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-09-27 00:00:00-04:00",
+        "open_price": 228.20893469195548,
+        "current_price": 227.53965759277344,
+        "high_price": 229.26776733886913,
+        "low_price": 227.05020584581527,
+        "trading_volume": 34026000.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-09-30 00:00:00-04:00",
+        "open_price": 229.78718847660608,
+        "current_price": 232.7439422607422,
+        "high_price": 232.7439422607422,
+        "low_price": 229.39761768078608,
+        "trading_volume": 54541900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-01 00:00:00-04:00",
+        "open_price": 229.2677705196639,
+        "current_price": 225.96141052246094,
+        "high_price": 229.3976172900359,
+        "low_price": 223.49412373913023,
+        "trading_volume": 63285000.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-02 00:00:00-04:00",
+        "open_price": 225.64175566026316,
+        "current_price": 226.53077697753906,
+        "high_price": 227.12012493395358,
+        "low_price": 222.77491454853467,
+        "trading_volume": 32880600.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-03 00:00:00-04:00",
+        "open_price": 224.8925655126969,
+        "current_price": 225.42198181152344,
+        "high_price": 226.56072831643584,
+        "low_price": 223.0745736591087,
+        "trading_volume": 34044200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-04 00:00:00-04:00",
+        "open_price": 227.6495326914976,
+        "current_price": 226.55075073242188,
+        "high_price": 227.74942888869526,
+        "low_price": 223.88368688105714,
+        "trading_volume": 37245100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-07 00:00:00-04:00",
+        "open_price": 224.25327473060864,
+        "current_price": 221.4463653564453,
+        "high_price": 225.44196936055414,
+        "low_price": 221.08676038639473,
+        "trading_volume": 39505400.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-08 00:00:00-04:00",
+        "open_price": 224.05349542674807,
+        "current_price": 225.52188110351562,
+        "high_price": 225.73164177618557,
+        "low_price": 223.0046463373399,
+        "trading_volume": 31855700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-09 00:00:00-04:00",
+        "open_price": 224.9824739985636,
+        "current_price": 229.28773498535156,
+        "high_price": 229.49751090746852,
+        "low_price": 224.58291968465133,
+        "trading_volume": 33591100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-10 00:00:00-04:00",
+        "open_price": 227.5296744960524,
+        "current_price": 228.7882843017578,
+        "high_price": 229.24778548023318,
+        "low_price": 226.9203442604764,
+        "trading_volume": 28183500.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-11 00:00:00-04:00",
+        "open_price": 229.04800351672907,
+        "current_price": 227.2999267578125,
+        "high_price": 229.15788323697032,
+        "low_price": 227.09015084025384,
+        "trading_volume": 31759200.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-14 00:00:00-04:00",
+        "open_price": 228.44865815944695,
+        "current_price": 231.04580688476562,
+        "high_price": 231.47532700331138,
+        "low_price": 228.34877720356226,
+        "trading_volume": 39882100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-15 00:00:00-04:00",
+        "open_price": 233.3532605949055,
+        "current_price": 233.59300231933594,
+        "high_price": 237.22900130875718,
+        "low_price": 232.11461788171079,
+        "trading_volume": 64751400.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-16 00:00:00-04:00",
+        "open_price": 231.34547369396782,
+        "current_price": 231.5252685546875,
+        "high_price": 231.86489123072647,
+        "low_price": 229.5873982094942,
+        "trading_volume": 34082200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-17 00:00:00-04:00",
+        "open_price": 233.17345903647427,
+        "current_price": 231.89486694335938,
+        "high_price": 233.59301088010824,
+        "low_price": 230.26666863657624,
+        "trading_volume": 32993800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-18 00:00:00-04:00",
+        "open_price": 235.9204255737285,
+        "current_price": 234.74172973632812,
+        "high_price": 235.9204255737285,
+        "low_price": 233.75281228137578,
+        "trading_volume": 46431500.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-21 00:00:00-04:00",
+        "open_price": 234.19234018879644,
+        "current_price": 236.22010803222656,
+        "high_price": 236.5897117727769,
+        "low_price": 234.19234018879644,
+        "trading_volume": 36254500.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-22 00:00:00-04:00",
+        "open_price": 233.6329632952546,
+        "current_price": 235.60079956054688,
+        "high_price": 235.96040454410334,
+        "low_price": 232.3443876620224,
+        "trading_volume": 38846600.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-23 00:00:00-04:00",
+        "open_price": 233.822752128634,
+        "current_price": 230.5063934326172,
+        "high_price": 234.88158476901867,
+        "low_price": 227.50969037853835,
+        "trading_volume": 52287000.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-24 00:00:00-04:00",
+        "open_price": 229.7272566761152,
+        "current_price": 230.31661987304688,
+        "high_price": 230.56634513279107,
+        "low_price": 228.15898997077215,
+        "trading_volume": 31109500.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-25 00:00:00-04:00",
+        "open_price": 229.4875225740561,
+        "current_price": 231.1556854248047,
+        "high_price": 232.96369380669327,
+        "low_price": 229.3177112321018,
+        "trading_volume": 38802300.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-28 00:00:00-04:00",
+        "open_price": 233.06359498314518,
+        "current_price": 233.14349365234375,
+        "high_price": 234.472033847566,
+        "low_price": 232.29443692443334,
+        "trading_volume": 36087100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-29 00:00:00-04:00",
+        "open_price": 232.84382710997653,
+        "current_price": 233.41319274902344,
+        "high_price": 234.07247106119948,
+        "low_price": 232.06468555632105,
+        "trading_volume": 35417200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-30 00:00:00-04:00",
+        "open_price": 232.35435817157438,
+        "current_price": 229.8471221923828,
+        "high_price": 233.21341362628857,
+        "low_price": 229.29772360355057,
+        "trading_volume": 47070900.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-10-31 00:00:00-04:00",
+        "open_price": 229.08795100904055,
+        "current_price": 225.66172790527344,
+        "high_price": 229.57741798472995,
+        "low_price": 225.1223128313268,
+        "trading_volume": 64370100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-01 00:00:00-04:00",
+        "open_price": 220.72715344034327,
+        "current_price": 222.66502380371094,
+        "high_price": 225.10234466312102,
+        "low_price": 220.02792579428782,
+        "trading_volume": 65276700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-04 00:00:00-05:00",
+        "open_price": 220.74713841963055,
+        "current_price": 221.76600646972656,
+        "high_price": 222.54514803369162,
+        "low_price": 219.46854635353304,
+        "trading_volume": 44944500.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-05 00:00:00-05:00",
+        "open_price": 221.5562414690178,
+        "current_price": 223.2044219970703,
+        "high_price": 223.70387248945224,
+        "low_price": 220.896963160989,
+        "trading_volume": 28111300.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-06 00:00:00-05:00",
+        "open_price": 222.36535526416637,
+        "current_price": 222.47523498535156,
+        "high_price": 225.82155947797517,
+        "low_price": 220.94691765378838,
+        "trading_volume": 54561100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-07 00:00:00-05:00",
+        "open_price": 224.38313701629485,
+        "current_price": 227.22999572753906,
+        "high_price": 227.629565273657,
+        "low_price": 224.32320539488208,
+        "trading_volume": 42137700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-08 00:00:00-05:00",
+        "open_price": 227.1699981689453,
+        "current_price": 226.9600067138672,
+        "high_price": 228.66000366210938,
+        "low_price": 226.41000366210938,
+        "trading_volume": 38328800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-11 00:00:00-05:00",
+        "open_price": 225.0,
+        "current_price": 224.22999572753906,
+        "high_price": 225.6999969482422,
+        "low_price": 221.5,
+        "trading_volume": 42005600.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-12 00:00:00-05:00",
+        "open_price": 224.5500030517578,
+        "current_price": 224.22999572753906,
+        "high_price": 225.58999633789062,
+        "low_price": 223.36000061035156,
+        "trading_volume": 40398300.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-13 00:00:00-05:00",
+        "open_price": 224.00999450683594,
+        "current_price": 225.1199951171875,
+        "high_price": 226.64999389648438,
+        "low_price": 222.75999450683594,
+        "trading_volume": 48566200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-14 00:00:00-05:00",
+        "open_price": 225.02000427246094,
+        "current_price": 228.22000122070312,
+        "high_price": 228.8699951171875,
+        "low_price": 225.0,
+        "trading_volume": 44923900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-15 00:00:00-05:00",
+        "open_price": 226.39999389648438,
+        "current_price": 225.0,
+        "high_price": 226.9199981689453,
+        "low_price": 224.27000427246094,
+        "trading_volume": 47923700.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-18 00:00:00-05:00",
+        "open_price": 225.25,
+        "current_price": 228.02000427246094,
+        "high_price": 229.74000549316406,
+        "low_price": 225.1699981689453,
+        "trading_volume": 44686000.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-19 00:00:00-05:00",
+        "open_price": 226.97999572753906,
+        "current_price": 228.27999877929688,
+        "high_price": 230.16000366210938,
+        "low_price": 226.66000366210938,
+        "trading_volume": 36211800.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-20 00:00:00-05:00",
+        "open_price": 228.05999755859375,
+        "current_price": 229.0,
+        "high_price": 229.92999267578125,
+        "low_price": 225.88999938964844,
+        "trading_volume": 35169600.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-21 00:00:00-05:00",
+        "open_price": 228.8800048828125,
+        "current_price": 228.52000427246094,
+        "high_price": 230.16000366210938,
+        "low_price": 225.7100067138672,
+        "trading_volume": 42108300.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-22 00:00:00-05:00",
+        "open_price": 228.05999755859375,
+        "current_price": 229.8699951171875,
+        "high_price": 230.72000122070312,
+        "low_price": 228.05999755859375,
+        "trading_volume": 38168300.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-25 00:00:00-05:00",
+        "open_price": 231.4600067138672,
+        "current_price": 232.8699951171875,
+        "high_price": 233.25,
+        "low_price": 229.74000549316406,
+        "trading_volume": 90152800.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-26 00:00:00-05:00",
+        "open_price": 233.3300018310547,
+        "current_price": 235.05999755859375,
+        "high_price": 235.57000732421875,
+        "low_price": 233.3300018310547,
+        "trading_volume": 45986200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-27 00:00:00-05:00",
+        "open_price": 234.47000122070312,
+        "current_price": 234.92999267578125,
+        "high_price": 235.69000244140625,
+        "low_price": 233.80999755859375,
+        "trading_volume": 33498400.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-11-29 00:00:00-05:00",
+        "open_price": 234.80999755859375,
+        "current_price": 237.3300018310547,
+        "high_price": 237.80999755859375,
+        "low_price": 233.97000122070312,
+        "trading_volume": 28481400.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-12-02 00:00:00-05:00",
+        "open_price": 237.27000427246094,
+        "current_price": 239.58999633789062,
+        "high_price": 240.7899932861328,
+        "low_price": 237.16000366210938,
+        "trading_volume": 48137100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-12-03 00:00:00-05:00",
+        "open_price": 239.80999755859375,
+        "current_price": 242.64999389648438,
+        "high_price": 242.75999450683594,
+        "low_price": 238.89999389648438,
+        "trading_volume": 38861000.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-12-04 00:00:00-05:00",
+        "open_price": 242.8699951171875,
+        "current_price": 243.00999450683594,
+        "high_price": 244.11000061035156,
+        "low_price": 241.25,
+        "trading_volume": 44383900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-12-05 00:00:00-05:00",
+        "open_price": 243.99000549316406,
+        "current_price": 243.0399932861328,
+        "high_price": 244.5399932861328,
+        "low_price": 242.1300048828125,
+        "trading_volume": 40033900.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-12-06 00:00:00-05:00",
+        "open_price": 242.91000366210938,
+        "current_price": 242.83999633789062,
+        "high_price": 244.6300048828125,
+        "low_price": 242.0800018310547,
+        "trading_volume": 36870600.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-12-09 00:00:00-05:00",
+        "open_price": 241.8300018310547,
+        "current_price": 246.75,
+        "high_price": 247.24000549316406,
+        "low_price": 241.75,
+        "trading_volume": 44649200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-12-10 00:00:00-05:00",
+        "open_price": 246.88999938964844,
+        "current_price": 247.77000427246094,
+        "high_price": 248.2100067138672,
+        "low_price": 245.33999633789062,
+        "trading_volume": 36914800.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-12-11 00:00:00-05:00",
+        "open_price": 247.9600067138672,
+        "current_price": 246.49000549316406,
+        "high_price": 250.8000030517578,
+        "low_price": 246.25999450683594,
+        "trading_volume": 45205800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-12-12 00:00:00-05:00",
+        "open_price": 246.88999938964844,
+        "current_price": 247.9600067138672,
+        "high_price": 248.74000549316406,
+        "low_price": 245.67999267578125,
+        "trading_volume": 32777500.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-12-13 00:00:00-05:00",
+        "open_price": 247.82000732421875,
+        "current_price": 248.1300048828125,
+        "high_price": 249.2899932861328,
+        "low_price": 246.24000549316406,
+        "trading_volume": 33155300.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-12-16 00:00:00-05:00",
+        "open_price": 247.99000549316406,
+        "current_price": 251.0399932861328,
+        "high_price": 251.3800048828125,
+        "low_price": 247.64999389648438,
+        "trading_volume": 51694800.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-12-17 00:00:00-05:00",
+        "open_price": 250.0800018310547,
+        "current_price": 253.47999572753906,
+        "high_price": 253.8300018310547,
+        "low_price": 249.77999877929688,
+        "trading_volume": 51321700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AAPL",
+        "date_time": "2024-12-18 00:00:00-05:00",
+        "open_price": 252.22000122070312,
+        "current_price": 253.22999572753906,
+        "high_price": 253.79989624023438,
+        "low_price": 251.3300018310547,
+        "trading_volume": 9472450.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-09-25 00:00:00-04:00",
+        "open_price": 161.28514863352729,
+        "current_price": 161.3051300048828,
+        "high_price": 162.62361092925534,
+        "low_price": 161.11534508030692,
+        "trading_volume": 18869200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-09-26 00:00:00-04:00",
+        "open_price": 163.4526630547652,
+        "current_price": 162.543701171875,
+        "high_price": 163.89216177797897,
+        "low_price": 162.0942193836139,
+        "trading_volume": 20319300.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-09-27 00:00:00-04:00",
+        "open_price": 162.6236194767887,
+        "current_price": 163.76231384277344,
+        "high_price": 165.51031051590132,
+        "low_price": 162.44383284910126,
+        "trading_volume": 21101300.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-09-30 00:00:00-04:00",
+        "open_price": 163.1330385549028,
+        "current_price": 165.66014099121094,
+        "high_price": 165.9597853581085,
+        "low_price": 163.0730944402025,
+        "trading_volume": 20413900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-01 00:00:00-04:00",
+        "open_price": 167.49803900926474,
+        "current_price": 166.79884338378906,
+        "high_price": 168.9663574434244,
+        "low_price": 164.39159857770997,
+        "trading_volume": 28338100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-02 00:00:00-04:00",
+        "open_price": 166.22949200998104,
+        "current_price": 165.67013549804688,
+        "high_price": 167.32823890222443,
+        "low_price": 164.54142416704428,
+        "trading_volume": 17760200.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-03 00:00:00-04:00",
+        "open_price": 164.22179840650557,
+        "current_price": 165.67013549804688,
+        "high_price": 166.4492413884297,
+        "low_price": 163.73235383790225,
+        "trading_volume": 15073100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-04 00:00:00-04:00",
+        "open_price": 167.8676144263969,
+        "current_price": 166.86875915527344,
+        "high_price": 168.03741799352926,
+        "low_price": 165.29056599793975,
+        "trading_volume": 19047400.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-07 00:00:00-04:00",
+        "open_price": 167.52800594767675,
+        "current_price": 162.79342651367188,
+        "high_price": 168.2871304607625,
+        "low_price": 162.56369407072728,
+        "trading_volume": 22463100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-08 00:00:00-04:00",
+        "open_price": 163.75233474045888,
+        "current_price": 164.19183349609375,
+        "high_price": 164.54142369438745,
+        "low_price": 162.68355229004484,
+        "trading_volume": 23072700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-09 00:00:00-04:00",
+        "open_price": 163.26288934163853,
+        "current_price": 161.67471313476562,
+        "high_price": 164.65129754460094,
+        "low_price": 159.5571448589351,
+        "trading_volume": 31181800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-10 00:00:00-04:00",
+        "open_price": 160.6858334406201,
+        "current_price": 161.8944549560547,
+        "high_price": 162.88332710504665,
+        "low_price": 160.21637027061266,
+        "trading_volume": 14144100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-11 00:00:00-04:00",
+        "open_price": 161.94440120303656,
+        "current_price": 163.05313110351562,
+        "high_price": 163.7123639633056,
+        "low_price": 161.05542066959453,
+        "trading_volume": 15344300.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-14 00:00:00-04:00",
+        "open_price": 163.45266773305087,
+        "current_price": 164.7711639404297,
+        "high_price": 166.03969909717978,
+        "low_price": 163.21293699316715,
+        "trading_volume": 19016100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-15 00:00:00-04:00",
+        "open_price": 165.6002081913426,
+        "current_price": 165.27059936523438,
+        "high_price": 167.48804403838992,
+        "low_price": 164.44154766375664,
+        "trading_volume": 20247200.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-16 00:00:00-04:00",
+        "open_price": 164.34164834019793,
+        "current_price": 164.97093200683594,
+        "high_price": 165.61019873881125,
+        "low_price": 163.55255942155696,
+        "trading_volume": 16406000.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-17 00:00:00-04:00",
+        "open_price": 165.54026682623436,
+        "current_price": 162.74346923828125,
+        "high_price": 166.179533539939,
+        "low_price": 162.5736656844729,
+        "trading_volume": 21453400.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-18 00:00:00-04:00",
+        "open_price": 163.0031929718876,
+        "current_price": 163.23292541503906,
+        "high_price": 164.52145724074808,
+        "low_price": 162.89331828319396,
+        "trading_volume": 19757700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-21 00:00:00-04:00",
+        "open_price": 162.76345865438103,
+        "current_price": 163.88218688964844,
+        "high_price": 164.3116873279236,
+        "low_price": 162.43383459552447,
+        "trading_volume": 20946500.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-22 00:00:00-04:00",
+        "open_price": 162.79342721641044,
+        "current_price": 164.95095825195312,
+        "high_price": 165.5802419476502,
+        "low_price": 162.79342721641044,
+        "trading_volume": 16568100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-23 00:00:00-04:00",
+        "open_price": 164.57138759989343,
+        "current_price": 162.59365844726562,
+        "high_price": 165.63018698109346,
+        "low_price": 161.74462537741965,
+        "trading_volume": 18280500.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-24 00:00:00-04:00",
+        "open_price": 162.64359660721192,
+        "current_price": 162.53372192382812,
+        "high_price": 163.14302421507978,
+        "low_price": 160.82567279873874,
+        "trading_volume": 22412500.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-25 00:00:00-04:00",
+        "open_price": 163.48263605894513,
+        "current_price": 165.080810546875,
+        "high_price": 165.4004362996681,
+        "low_price": 163.2329222477887,
+        "trading_volume": 19828900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-28 00:00:00-04:00",
+        "open_price": 168.55681917401554,
+        "current_price": 166.52914428710938,
+        "high_price": 168.55681917401554,
+        "low_price": 163.76231104702376,
+        "trading_volume": 32138600.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-29 00:00:00-04:00",
+        "open_price": 167.5379836387061,
+        "current_price": 169.48574829101562,
+        "high_price": 170.18495914581706,
+        "low_price": 166.89871690047832,
+        "trading_volume": 42169000.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-30 00:00:00-04:00",
+        "open_price": 180.47314972890098,
+        "current_price": 174.26028442382812,
+        "high_price": 181.8116272766613,
+        "low_price": 173.86073320012326,
+        "trading_volume": 68890800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-10-31 00:00:00-04:00",
+        "open_price": 172.93181542068857,
+        "current_price": 170.91412353515625,
+        "high_price": 176.61759375547854,
+        "low_price": 170.80424884729752,
+        "trading_volume": 44769000.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-01 00:00:00-04:00",
+        "open_price": 169.87531325104803,
+        "current_price": 171.09390258789062,
+        "high_price": 172.1227374784499,
+        "low_price": 168.68667310994414,
+        "trading_volume": 31796500.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-04 00:00:00-05:00",
+        "open_price": 169.7354619545759,
+        "current_price": 169.0462646484375,
+        "high_price": 170.53454918701203,
+        "low_price": 167.81766174152193,
+        "trading_volume": 21492700.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-05 00:00:00-05:00",
+        "open_price": 169.2360421349021,
+        "current_price": 169.5457000732422,
+        "high_price": 170.33478903527796,
+        "low_price": 168.64672117984685,
+        "trading_volume": 18242100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-06 00:00:00-05:00",
+        "open_price": 173.60104838470335,
+        "current_price": 176.3079376220703,
+        "high_price": 176.73745331219902,
+        "low_price": 173.30138875645662,
+        "trading_volume": 33695500.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-07 00:00:00-05:00",
+        "open_price": 177.20691786224168,
+        "current_price": 180.5430908203125,
+        "high_price": 180.87271488977294,
+        "low_price": 176.9871684826014,
+        "trading_volume": 25352900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-08 00:00:00-05:00",
+        "open_price": 180.44319843386418,
+        "current_price": 178.14584350585938,
+        "high_price": 180.69291225137096,
+        "low_price": 177.87614831538193,
+        "trading_volume": 22006200.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-11 00:00:00-05:00",
+        "open_price": 178.37557658568522,
+        "current_price": 180.1435546875,
+        "high_price": 180.3433226939525,
+        "low_price": 178.26570189593804,
+        "trading_volume": 17450400.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-12 00:00:00-05:00",
+        "open_price": 179.61415166757834,
+        "current_price": 181.41207885742188,
+        "high_price": 182.28109325658866,
+        "low_price": 179.18463600062077,
+        "trading_volume": 25134900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-13 00:00:00-05:00",
+        "open_price": 180.25342505699032,
+        "current_price": 178.67523193359375,
+        "high_price": 180.75285268181247,
+        "low_price": 178.3356095653103,
+        "trading_volume": 23184000.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-14 00:00:00-05:00",
+        "open_price": 178.0759037938209,
+        "current_price": 175.37899780273438,
+        "high_price": 178.6152941368307,
+        "low_price": 174.12044573791286,
+        "trading_volume": 31007500.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-15 00:00:00-05:00",
+        "open_price": 173.5311122159291,
+        "current_price": 172.29254150390625,
+        "high_price": 173.9406465119526,
+        "low_price": 171.02399111342126,
+        "trading_volume": 32504600.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-18 00:00:00-05:00",
+        "open_price": 173.2214668063966,
+        "current_price": 175.0993194580078,
+        "high_price": 175.23915857623498,
+        "low_price": 172.70205783527248,
+        "trading_volume": 20206600.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-19 00:00:00-05:00",
+        "open_price": 173.52113492372038,
+        "current_price": 177.9160919189453,
+        "high_price": 178.66523335503967,
+        "low_price": 173.3613144261031,
+        "trading_volume": 23434900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-20 00:00:00-05:00",
+        "open_price": 177.13697761802752,
+        "current_price": 175.77853393554688,
+        "high_price": 177.47658472831748,
+        "low_price": 173.58105554247194,
+        "trading_volume": 18997100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-21 00:00:00-05:00",
+        "open_price": 173.70092179220046,
+        "current_price": 167.4381103515625,
+        "high_price": 173.93066947333787,
+        "low_price": 163.51260129552495,
+        "trading_volume": 59734400.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-22 00:00:00-05:00",
+        "open_price": 165.66014438880168,
+        "current_price": 164.57138061523438,
+        "high_price": 166.26944668285782,
+        "low_price": 163.7123645160949,
+        "trading_volume": 38604600.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-25 00:00:00-05:00",
+        "open_price": 165.8998571680873,
+        "current_price": 167.45806884765625,
+        "high_price": 168.43695792128977,
+        "low_price": 165.4204109377555,
+        "trading_volume": 33135300.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-26 00:00:00-05:00",
+        "open_price": 167.43810706347386,
+        "current_price": 168.9263916015625,
+        "high_price": 169.62560245554164,
+        "low_price": 167.38816125371517,
+        "trading_volume": 20486700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-27 00:00:00-05:00",
+        "open_price": 168.80653770105775,
+        "current_price": 169.03627014160156,
+        "high_price": 169.28598395476882,
+        "low_price": 167.8276638210122,
+        "trading_volume": 19266500.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-11-29 00:00:00-05:00",
+        "open_price": 168.30710998168675,
+        "current_price": 168.756591796875,
+        "high_price": 169.236038050321,
+        "low_price": 166.96864760176737,
+        "trading_volume": 14257200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-12-02 00:00:00-05:00",
+        "open_price": 168.5767985152317,
+        "current_price": 171.29368591308594,
+        "high_price": 171.88300683066288,
+        "low_price": 168.37703052095557,
+        "trading_volume": 23789100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-12-03 00:00:00-05:00",
+        "open_price": 171.29368202779142,
+        "current_price": 171.1438446044922,
+        "high_price": 172.4823069012363,
+        "low_price": 170.65441531581507,
+        "trading_volume": 22248700.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-12-04 00:00:00-05:00",
+        "open_price": 170.95406461457648,
+        "current_price": 174.17037963867188,
+        "high_price": 174.70976999200622,
+        "low_price": 170.86417130279446,
+        "trading_volume": 31615100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-12-05 00:00:00-05:00",
+        "open_price": 175.15925501840792,
+        "current_price": 172.44236755371094,
+        "high_price": 175.858450636237,
+        "low_price": 172.13272486876673,
+        "trading_volume": 21356200.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-12-06 00:00:00-05:00",
+        "open_price": 171.83306973436635,
+        "current_price": 174.510009765625,
+        "high_price": 174.8795813358406,
+        "low_price": 171.6632661685559,
+        "trading_volume": 21462400.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-12-09 00:00:00-05:00",
+        "open_price": 173.9600067138672,
+        "current_price": 175.3699951171875,
+        "high_price": 176.25999450683594,
+        "low_price": 173.64999389648438,
+        "trading_volume": 25389600.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-12-10 00:00:00-05:00",
+        "open_price": 182.85000610351562,
+        "current_price": 185.1699981689453,
+        "high_price": 186.36000061035156,
+        "low_price": 181.0500030517578,
+        "trading_volume": 54813000.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-12-11 00:00:00-05:00",
+        "open_price": 185.30999755859375,
+        "current_price": 195.39999389648438,
+        "high_price": 195.61000061035156,
+        "low_price": 184.85000610351562,
+        "trading_volume": 67894100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-12-12 00:00:00-05:00",
+        "open_price": 195.0,
+        "current_price": 191.9600067138672,
+        "high_price": 195.17999267578125,
+        "low_price": 191.7100067138672,
+        "trading_volume": 34817500.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-12-13 00:00:00-05:00",
+        "open_price": 191.00999450683594,
+        "current_price": 189.82000732421875,
+        "high_price": 192.72999572753906,
+        "low_price": 189.63999938964844,
+        "trading_volume": 25143500.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-12-16 00:00:00-05:00",
+        "open_price": 192.8699951171875,
+        "current_price": 196.66000366210938,
+        "high_price": 199.0,
+        "low_price": 192.6199951171875,
+        "trading_volume": 44934900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-12-17 00:00:00-05:00",
+        "open_price": 197.25,
+        "current_price": 195.4199981689453,
+        "high_price": 201.4199981689453,
+        "low_price": 194.97999572753906,
+        "trading_volume": 43482900.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "GOOGL",
+        "date_time": "2024-12-18 00:00:00-05:00",
+        "open_price": 195.22000122070312,
+        "current_price": 195.30999755859375,
+        "high_price": 197.0,
+        "low_price": 193.27699279785156,
+        "trading_volume": 6599722.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-09-25 00:00:00-04:00",
+        "open_price": 428.9713514363913,
+        "current_price": 431.2467956542969,
+        "high_price": 432.25478780854195,
+        "low_price": 427.7138891426906,
+        "trading_volume": 13396400.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-09-26 00:00:00-04:00",
+        "open_price": 434.2208424719693,
+        "current_price": 430.4483947753906,
+        "high_price": 434.4304144393862,
+        "low_price": 428.27275694361356,
+        "trading_volume": 14492000.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-09-27 00:00:00-04:00",
+        "open_price": 430.6579556744764,
+        "current_price": 427.1649475097656,
+        "high_price": 430.98731349999593,
+        "low_price": 426.6160584093853,
+        "trading_volume": 14896100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-09-30 00:00:00-04:00",
+        "open_price": 427.3545779124989,
+        "current_price": 429.4403991699219,
+        "high_price": 429.5601850355194,
+        "low_price": 424.5202548923187,
+        "trading_volume": 16807300.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-01 00:00:00-04:00",
+        "open_price": 427.59411732607174,
+        "current_price": 419.849609375,
+        "high_price": 427.6240561781871,
+        "low_price": 417.9733600914629,
+        "trading_volume": 19092900.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-02 00:00:00-04:00",
+        "open_price": 421.735816910149,
+        "current_price": 416.2967224121094,
+        "high_price": 421.9753581830839,
+        "low_price": 415.87754802693416,
+        "trading_volume": 16582300.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-03 00:00:00-04:00",
+        "open_price": 416.79573518966424,
+        "current_price": 415.7079162597656,
+        "high_price": 418.7118826868124,
+        "low_price": 413.46241092439135,
+        "trading_volume": 13686400.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-04 00:00:00-04:00",
+        "open_price": 417.4044891108862,
+        "current_price": 415.2288513183594,
+        "high_price": 418.91148239103603,
+        "low_price": 414.141032422096,
+        "trading_volume": 19169700.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-07 00:00:00-04:00",
+        "open_price": 415.16898000097916,
+        "current_price": 408.7218933105469,
+        "high_price": 416.27674799671047,
+        "low_price": 408.1829635105781,
+        "trading_volume": 20919800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-08 00:00:00-04:00",
+        "open_price": 410.0791746223265,
+        "current_price": 413.8815612792969,
+        "high_price": 414.8296757293512,
+        "low_price": 407.3546475987459,
+        "trading_volume": 19229300.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-09 00:00:00-04:00",
+        "open_price": 415.0292278034618,
+        "current_price": 416.62603759765625,
+        "high_price": 419.5402177563071,
+        "low_price": 413.47234662969106,
+        "trading_volume": 14974300.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-10 00:00:00-04:00",
+        "open_price": 414.4005410260384,
+        "current_price": 415.0093078613281,
+        "high_price": 416.5163012078428,
+        "low_price": 412.3246790108455,
+        "trading_volume": 13848400.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-11 00:00:00-04:00",
+        "open_price": 415.30870917320357,
+        "current_price": 415.48834228515625,
+        "high_price": 416.2967217455578,
+        "low_price": 412.42446778596707,
+        "trading_volume": 14144900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-14 00:00:00-04:00",
+        "open_price": 416.93544552364324,
+        "current_price": 418.302734375,
+        "high_price": 423.1929399714268,
+        "low_price": 416.6859449273295,
+        "trading_volume": 16653100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-15 00:00:00-04:00",
+        "open_price": 421.33663401346166,
+        "current_price": 417.90350341796875,
+        "high_price": 421.6360529989684,
+        "low_price": 414.4304746563672,
+        "trading_volume": 18900200.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-16 00:00:00-04:00",
+        "open_price": 414.34064286226896,
+        "current_price": 415.2887268066406,
+        "high_price": 415.5282376209468,
+        "low_price": 409.66000947414466,
+        "trading_volume": 15508900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-17 00:00:00-04:00",
+        "open_price": 421.5162601711392,
+        "current_price": 415.8875427246094,
+        "high_price": 421.65599512005826,
+        "low_price": 414.7597951900465,
+        "trading_volume": 14820000.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-18 00:00:00-04:00",
+        "open_price": 416.30672505621476,
+        "current_price": 417.3246765136719,
+        "high_price": 418.81169030533886,
+        "low_price": 415.4284780937268,
+        "trading_volume": 17145300.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-21 00:00:00-04:00",
+        "open_price": 415.28873052027103,
+        "current_price": 417.94342041015625,
+        "high_price": 418.1230535224922,
+        "low_price": 412.92346983800354,
+        "trading_volume": 14206100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-22 00:00:00-04:00",
+        "open_price": 417.65400492824705,
+        "current_price": 426.656005859375,
+        "high_price": 429.719850009177,
+        "low_price": 417.20492213264845,
+        "trading_volume": 25482200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-23 00:00:00-04:00",
+        "open_price": 429.99927448801196,
+        "current_price": 423.7518005371094,
+        "high_price": 430.2188362215334,
+        "low_price": 421.68592837942305,
+        "trading_volume": 19654400.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-24 00:00:00-04:00",
+        "open_price": 424.48033834123805,
+        "current_price": 423.8815612792969,
+        "high_price": 425.1290642527003,
+        "low_price": 421.55619868116815,
+        "trading_volume": 13581600.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-25 00:00:00-04:00",
+        "open_price": 425.9075007963015,
+        "current_price": 427.2947082519531,
+        "high_price": 431.6559737319955,
+        "low_price": 425.7178779096375,
+        "trading_volume": 16899100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-28 00:00:00-04:00",
+        "open_price": 430.79770276573566,
+        "current_price": 425.7378234863281,
+        "high_price": 431.0771422085262,
+        "low_price": 425.44839427381163,
+        "trading_volume": 14882400.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-29 00:00:00-04:00",
+        "open_price": 427.14500621655657,
+        "current_price": 431.0871276855469,
+        "high_price": 432.3046917719988,
+        "low_price": 424.94938886176953,
+        "trading_volume": 17644100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-30 00:00:00-04:00",
+        "open_price": 436.566149775902,
+        "current_price": 431.66595458984375,
+        "high_price": 437.6240298288107,
+        "low_price": 431.2368208895649,
+        "trading_volume": 29749100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-10-31 00:00:00-04:00",
+        "open_price": 414.53024968400064,
+        "current_price": 405.53826904296875,
+        "high_price": 415.3286698537771,
+        "low_price": 405.4883506505116,
+        "trading_volume": 53971000.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-01 00:00:00-04:00",
+        "open_price": 408.1929633155515,
+        "current_price": 409.55023193359375,
+        "high_price": 414.669989017628,
+        "low_price": 406.6859699751707,
+        "trading_volume": 24230400.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-04 00:00:00-05:00",
+        "open_price": 408.98136250106245,
+        "current_price": 407.64404296875,
+        "high_price": 409.6001495592508,
+        "low_price": 404.75983193250556,
+        "trading_volume": 19672300.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-05 00:00:00-05:00",
+        "open_price": 407.55420745470553,
+        "current_price": 410.6380310058594,
+        "high_price": 414.0711614645437,
+        "low_price": 407.26477825056725,
+        "trading_volume": 17626000.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-06 00:00:00-05:00",
+        "open_price": 411.5961294118678,
+        "current_price": 419.3406066894531,
+        "high_price": 419.6100868075599,
+        "low_price": 409.6999006422783,
+        "trading_volume": 26681800.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-07 00:00:00-05:00",
+        "open_price": 420.4384354335317,
+        "current_price": 424.58013916015625,
+        "high_price": 425.997315920461,
+        "low_price": 419.041238212776,
+        "trading_volume": 19901800.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-08 00:00:00-05:00",
+        "open_price": 424.4703681752109,
+        "current_price": 421.6959228515625,
+        "high_price": 425.6480036424066,
+        "low_price": 420.9374313170091,
+        "trading_volume": 16891400.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-11 00:00:00-05:00",
+        "open_price": 421.67592700377526,
+        "current_price": 417.1749572753906,
+        "high_price": 423.9613608320793,
+        "low_price": 415.16896287691225,
+        "trading_volume": 24503300.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-12 00:00:00-05:00",
+        "open_price": 417.41448646778457,
+        "current_price": 422.1849365234375,
+        "high_price": 423.59212350380113,
+        "low_price": 416.3665961739424,
+        "trading_volume": 19401200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-13 00:00:00-05:00",
+        "open_price": 420.7977304833057,
+        "current_price": 424.3506164550781,
+        "high_price": 428.4723406260961,
+        "low_price": 417.37455923502137,
+        "trading_volume": 21502200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-14 00:00:00-05:00",
+        "open_price": 424.1509924128195,
+        "current_price": 426.0372314453125,
+        "high_price": 427.3146732159619,
+        "low_price": 419.1609807373746,
+        "trading_volume": 30246900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-15 00:00:00-05:00",
+        "open_price": 418.981368798022,
+        "current_price": 414.1709899902344,
+        "high_price": 421.95539641463347,
+        "low_price": 412.8137213651046,
+        "trading_volume": 28247600.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-18 00:00:00-05:00",
+        "open_price": 414.04123715109023,
+        "current_price": 414.9294738769531,
+        "high_price": 417.56418428856415,
+        "low_price": 411.27678155870234,
+        "trading_volume": 24742000.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-19 00:00:00-05:00",
+        "open_price": 412.28473963430486,
+        "current_price": 416.9554138183594,
+        "high_price": 417.10510808078726,
+        "low_price": 410.727858391825,
+        "trading_volume": 18133500.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-20 00:00:00-05:00",
+        "open_price": 416.0372212157148,
+        "current_price": 414.65997314453125,
+        "high_price": 416.4563955899673,
+        "low_price": 409.7597781109004,
+        "trading_volume": 19191700.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-21 00:00:00-05:00",
+        "open_price": 419.5,
+        "current_price": 412.8699951171875,
+        "high_price": 419.7799987792969,
+        "low_price": 410.2900085449219,
+        "trading_volume": 20780200.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-22 00:00:00-05:00",
+        "open_price": 411.3699951171875,
+        "current_price": 417.0,
+        "high_price": 417.3999938964844,
+        "low_price": 411.05999755859375,
+        "trading_volume": 24814600.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-25 00:00:00-05:00",
+        "open_price": 418.3800048828125,
+        "current_price": 418.7900085449219,
+        "high_price": 421.0799865722656,
+        "low_price": 414.8500061035156,
+        "trading_volume": 27691100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-26 00:00:00-05:00",
+        "open_price": 419.5899963378906,
+        "current_price": 427.989990234375,
+        "high_price": 429.0400085449219,
+        "low_price": 418.8500061035156,
+        "trading_volume": 23458900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-27 00:00:00-05:00",
+        "open_price": 425.1099853515625,
+        "current_price": 422.989990234375,
+        "high_price": 427.2300109863281,
+        "low_price": 422.0199890136719,
+        "trading_volume": 18332400.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-11-29 00:00:00-05:00",
+        "open_price": 420.0899963378906,
+        "current_price": 423.4599914550781,
+        "high_price": 424.8800048828125,
+        "low_price": 417.79998779296875,
+        "trading_volume": 16271900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-12-02 00:00:00-05:00",
+        "open_price": 421.57000732421875,
+        "current_price": 430.9800109863281,
+        "high_price": 433.0,
+        "low_price": 421.30999755859375,
+        "trading_volume": 20207200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-12-03 00:00:00-05:00",
+        "open_price": 429.8399963378906,
+        "current_price": 431.20001220703125,
+        "high_price": 432.4700012207031,
+        "low_price": 427.739990234375,
+        "trading_volume": 18302000.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-12-04 00:00:00-05:00",
+        "open_price": 433.0299987792969,
+        "current_price": 437.4200134277344,
+        "high_price": 439.6700134277344,
+        "low_price": 432.6300048828125,
+        "trading_volume": 26009400.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-12-05 00:00:00-05:00",
+        "open_price": 437.9200134277344,
+        "current_price": 442.6199951171875,
+        "high_price": 444.6600036621094,
+        "low_price": 436.1700134277344,
+        "trading_volume": 21697800.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-12-06 00:00:00-05:00",
+        "open_price": 442.29998779296875,
+        "current_price": 443.57000732421875,
+        "high_price": 446.1000061035156,
+        "low_price": 441.7699890136719,
+        "trading_volume": 18821000.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-12-09 00:00:00-05:00",
+        "open_price": 442.6000061035156,
+        "current_price": 446.0199890136719,
+        "high_price": 448.3299865722656,
+        "low_price": 440.5,
+        "trading_volume": 19144400.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-12-10 00:00:00-05:00",
+        "open_price": 444.3900146484375,
+        "current_price": 443.3299865722656,
+        "high_price": 449.6199951171875,
+        "low_price": 441.6000061035156,
+        "trading_volume": 18469500.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-12-11 00:00:00-05:00",
+        "open_price": 444.04998779296875,
+        "current_price": 448.989990234375,
+        "high_price": 450.3500061035156,
+        "low_price": 444.04998779296875,
+        "trading_volume": 19200200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-12-12 00:00:00-05:00",
+        "open_price": 449.1099853515625,
+        "current_price": 449.55999755859375,
+        "high_price": 456.1600036621094,
+        "low_price": 449.1099853515625,
+        "trading_volume": 20834800.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-12-13 00:00:00-05:00",
+        "open_price": 448.44000244140625,
+        "current_price": 447.2699890136719,
+        "high_price": 451.42999267578125,
+        "low_price": 445.5799865722656,
+        "trading_volume": 20177800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-12-16 00:00:00-05:00",
+        "open_price": 447.2699890136719,
+        "current_price": 451.5899963378906,
+        "high_price": 452.17999267578125,
+        "low_price": 445.2799987792969,
+        "trading_volume": 23598800.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-12-17 00:00:00-05:00",
+        "open_price": 451.010009765625,
+        "current_price": 454.4599914550781,
+        "high_price": 455.2900085449219,
+        "low_price": 449.57000732421875,
+        "trading_volume": 22716300.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "MSFT",
+        "date_time": "2024-12-18 00:00:00-05:00",
+        "open_price": 451.3999938964844,
+        "current_price": 451.5199890136719,
+        "high_price": 452.30999755859375,
+        "low_price": 446.159912109375,
+        "trading_volume": 4930212.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-09-25 00:00:00-04:00",
+        "open_price": 252.5399932861328,
+        "current_price": 257.0199890136719,
+        "high_price": 257.04998779296875,
+        "low_price": 252.27999877929688,
+        "trading_volume": 65034300.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-09-26 00:00:00-04:00",
+        "open_price": 260.6000061035156,
+        "current_price": 254.22000122070312,
+        "high_price": 261.75,
+        "low_price": 251.52999877929688,
+        "trading_volume": 67142200.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-09-27 00:00:00-04:00",
+        "open_price": 257.3800048828125,
+        "current_price": 260.4599914550781,
+        "high_price": 260.70001220703125,
+        "low_price": 254.1199951171875,
+        "trading_volume": 70988100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-09-30 00:00:00-04:00",
+        "open_price": 259.0400085449219,
+        "current_price": 261.6300048828125,
+        "high_price": 264.8599853515625,
+        "low_price": 255.77000427246094,
+        "trading_volume": 80705700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-01 00:00:00-04:00",
+        "open_price": 262.6700134277344,
+        "current_price": 258.0199890136719,
+        "high_price": 263.9800109863281,
+        "low_price": 248.52999877929688,
+        "trading_volume": 87397600.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-02 00:00:00-04:00",
+        "open_price": 247.5500030517578,
+        "current_price": 249.02000427246094,
+        "high_price": 251.16000366210938,
+        "low_price": 241.5,
+        "trading_volume": 93983900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-03 00:00:00-04:00",
+        "open_price": 244.47999572753906,
+        "current_price": 240.66000366210938,
+        "high_price": 249.7899932861328,
+        "low_price": 237.80999755859375,
+        "trading_volume": 80729200.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-04 00:00:00-04:00",
+        "open_price": 246.69000244140625,
+        "current_price": 250.0800018310547,
+        "high_price": 250.9600067138672,
+        "low_price": 244.5800018310547,
+        "trading_volume": 86573200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-07 00:00:00-04:00",
+        "open_price": 249.0,
+        "current_price": 240.8300018310547,
+        "high_price": 249.8300018310547,
+        "low_price": 240.6999969482422,
+        "trading_volume": 68113300.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-08 00:00:00-04:00",
+        "open_price": 243.55999755859375,
+        "current_price": 244.5,
+        "high_price": 246.2100067138672,
+        "low_price": 240.55999755859375,
+        "trading_volume": 56303200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-09 00:00:00-04:00",
+        "open_price": 243.82000732421875,
+        "current_price": 241.0500030517578,
+        "high_price": 247.42999267578125,
+        "low_price": 239.50999450683594,
+        "trading_volume": 66289500.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-10 00:00:00-04:00",
+        "open_price": 241.80999755859375,
+        "current_price": 238.77000427246094,
+        "high_price": 242.7899932861328,
+        "low_price": 232.33999633789062,
+        "trading_volume": 83087100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-11 00:00:00-04:00",
+        "open_price": 220.1300048828125,
+        "current_price": 217.8000030517578,
+        "high_price": 223.33999633789062,
+        "low_price": 214.3800048828125,
+        "trading_volume": 142628900.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-14 00:00:00-04:00",
+        "open_price": 220.1300048828125,
+        "current_price": 219.16000366210938,
+        "high_price": 221.91000366210938,
+        "low_price": 213.74000549316406,
+        "trading_volume": 86291900.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-15 00:00:00-04:00",
+        "open_price": 220.00999450683594,
+        "current_price": 219.57000732421875,
+        "high_price": 224.25999450683594,
+        "low_price": 217.1199951171875,
+        "trading_volume": 62988800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-16 00:00:00-04:00",
+        "open_price": 221.39999389648438,
+        "current_price": 221.3300018310547,
+        "high_price": 222.82000732421875,
+        "low_price": 218.92999267578125,
+        "trading_volume": 49632800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-17 00:00:00-04:00",
+        "open_price": 221.58999633789062,
+        "current_price": 220.88999938964844,
+        "high_price": 222.0800018310547,
+        "low_price": 217.89999389648438,
+        "trading_volume": 50791800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-18 00:00:00-04:00",
+        "open_price": 220.7100067138672,
+        "current_price": 220.6999969482422,
+        "high_price": 222.27999877929688,
+        "low_price": 219.22999572753906,
+        "trading_volume": 49611900.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-21 00:00:00-04:00",
+        "open_price": 218.89999389648438,
+        "current_price": 218.85000610351562,
+        "high_price": 220.47999572753906,
+        "low_price": 215.72999572753906,
+        "trading_volume": 47329000.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-22 00:00:00-04:00",
+        "open_price": 217.30999755859375,
+        "current_price": 217.97000122070312,
+        "high_price": 218.22000122070312,
+        "low_price": 215.25999450683594,
+        "trading_volume": 43268700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-23 00:00:00-04:00",
+        "open_price": 217.1300048828125,
+        "current_price": 213.64999389648438,
+        "high_price": 218.72000122070312,
+        "low_price": 212.11000061035156,
+        "trading_volume": 80938900.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-24 00:00:00-04:00",
+        "open_price": 244.67999267578125,
+        "current_price": 260.4800109863281,
+        "high_price": 262.1199951171875,
+        "low_price": 242.64999389648438,
+        "trading_volume": 204491900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-25 00:00:00-04:00",
+        "open_price": 256.010009765625,
+        "current_price": 269.19000244140625,
+        "high_price": 269.489990234375,
+        "low_price": 255.32000732421875,
+        "trading_volume": 161611900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-28 00:00:00-04:00",
+        "open_price": 270.0,
+        "current_price": 262.510009765625,
+        "high_price": 273.5400085449219,
+        "low_price": 262.239990234375,
+        "trading_volume": 107653600.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-29 00:00:00-04:00",
+        "open_price": 264.510009765625,
+        "current_price": 259.5199890136719,
+        "high_price": 264.9800109863281,
+        "low_price": 255.50999450683594,
+        "trading_volume": 80521800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-30 00:00:00-04:00",
+        "open_price": 258.0400085449219,
+        "current_price": 257.54998779296875,
+        "high_price": 263.3500061035156,
+        "low_price": 255.82000732421875,
+        "trading_volume": 53993600.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-10-31 00:00:00-04:00",
+        "open_price": 257.989990234375,
+        "current_price": 249.85000610351562,
+        "high_price": 259.75,
+        "low_price": 249.25,
+        "trading_volume": 66575300.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-01 00:00:00-04:00",
+        "open_price": 252.0399932861328,
+        "current_price": 248.97999572753906,
+        "high_price": 254.0,
+        "low_price": 246.6300048828125,
+        "trading_volume": 57544800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-04 00:00:00-05:00",
+        "open_price": 244.55999755859375,
+        "current_price": 242.83999633789062,
+        "high_price": 248.89999389648438,
+        "low_price": 238.8800048828125,
+        "trading_volume": 68802400.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-05 00:00:00-05:00",
+        "open_price": 247.33999633789062,
+        "current_price": 251.44000244140625,
+        "high_price": 255.27999877929688,
+        "low_price": 246.2100067138672,
+        "trading_volume": 69282500.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-06 00:00:00-05:00",
+        "open_price": 284.6700134277344,
+        "current_price": 288.5299987792969,
+        "high_price": 289.5899963378906,
+        "low_price": 275.6199951171875,
+        "trading_volume": 165228700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-07 00:00:00-05:00",
+        "open_price": 288.8900146484375,
+        "current_price": 296.9100036621094,
+        "high_price": 299.75,
+        "low_price": 285.5199890136719,
+        "trading_volume": 117309200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-08 00:00:00-05:00",
+        "open_price": 299.1400146484375,
+        "current_price": 321.2200012207031,
+        "high_price": 328.7099914550781,
+        "low_price": 297.6600036621094,
+        "trading_volume": 204782800.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-11 00:00:00-05:00",
+        "open_price": 346.29998779296875,
+        "current_price": 350.0,
+        "high_price": 358.6400146484375,
+        "low_price": 336.0,
+        "trading_volume": 210521600.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-12 00:00:00-05:00",
+        "open_price": 342.739990234375,
+        "current_price": 328.489990234375,
+        "high_price": 345.8399963378906,
+        "low_price": 323.30999755859375,
+        "trading_volume": 155726000.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-13 00:00:00-05:00",
+        "open_price": 335.8500061035156,
+        "current_price": 330.239990234375,
+        "high_price": 344.6000061035156,
+        "low_price": 322.5,
+        "trading_volume": 125405600.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-14 00:00:00-05:00",
+        "open_price": 327.69000244140625,
+        "current_price": 311.17999267578125,
+        "high_price": 329.9800109863281,
+        "low_price": 310.3699951171875,
+        "trading_volume": 120726100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-15 00:00:00-05:00",
+        "open_price": 310.57000732421875,
+        "current_price": 320.7200012207031,
+        "high_price": 324.67999267578125,
+        "low_price": 309.2200012207031,
+        "trading_volume": 114440300.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-18 00:00:00-05:00",
+        "open_price": 340.7300109863281,
+        "current_price": 338.739990234375,
+        "high_price": 348.54998779296875,
+        "low_price": 330.010009765625,
+        "trading_volume": 126547500.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-19 00:00:00-05:00",
+        "open_price": 335.760009765625,
+        "current_price": 346.0,
+        "high_price": 347.3800048828125,
+        "low_price": 332.75,
+        "trading_volume": 88852500.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-20 00:00:00-05:00",
+        "open_price": 345.0,
+        "current_price": 342.0299987792969,
+        "high_price": 346.6000061035156,
+        "low_price": 334.29998779296875,
+        "trading_volume": 66340700.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-21 00:00:00-05:00",
+        "open_price": 343.80999755859375,
+        "current_price": 339.6400146484375,
+        "high_price": 347.989990234375,
+        "low_price": 335.2799987792969,
+        "trading_volume": 58011700.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-22 00:00:00-05:00",
+        "open_price": 341.0899963378906,
+        "current_price": 352.55999755859375,
+        "high_price": 361.5299987792969,
+        "low_price": 337.70001220703125,
+        "trading_volume": 89140700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-25 00:00:00-05:00",
+        "open_price": 360.1400146484375,
+        "current_price": 338.5899963378906,
+        "high_price": 361.92999267578125,
+        "low_price": 338.20001220703125,
+        "trading_volume": 95890900.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-26 00:00:00-05:00",
+        "open_price": 341.0,
+        "current_price": 338.2300109863281,
+        "high_price": 346.9599914550781,
+        "low_price": 335.6600036621094,
+        "trading_volume": 62295900.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-27 00:00:00-05:00",
+        "open_price": 341.79998779296875,
+        "current_price": 332.8900146484375,
+        "high_price": 342.54998779296875,
+        "low_price": 326.5899963378906,
+        "trading_volume": 57896400.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-11-29 00:00:00-05:00",
+        "open_price": 336.0799865722656,
+        "current_price": 345.1600036621094,
+        "high_price": 345.45001220703125,
+        "low_price": 334.6499938964844,
+        "trading_volume": 37167600.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-12-02 00:00:00-05:00",
+        "open_price": 352.3800048828125,
+        "current_price": 357.0899963378906,
+        "high_price": 360.0,
+        "low_price": 351.1499938964844,
+        "trading_volume": 77986500.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-12-03 00:00:00-05:00",
+        "open_price": 351.79998779296875,
+        "current_price": 351.4200134277344,
+        "high_price": 355.69000244140625,
+        "low_price": 348.20001220703125,
+        "trading_volume": 58267200.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-12-04 00:00:00-05:00",
+        "open_price": 353.0,
+        "current_price": 357.92999267578125,
+        "high_price": 358.1000061035156,
+        "low_price": 348.6000061035156,
+        "trading_volume": 50810900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-12-05 00:00:00-05:00",
+        "open_price": 359.8699951171875,
+        "current_price": 369.489990234375,
+        "high_price": 375.42999267578125,
+        "low_price": 359.5,
+        "trading_volume": 81403600.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-12-06 00:00:00-05:00",
+        "open_price": 377.4200134277344,
+        "current_price": 389.2200012207031,
+        "high_price": 389.489990234375,
+        "low_price": 370.79998779296875,
+        "trading_volume": 81455800.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-12-09 00:00:00-05:00",
+        "open_price": 397.6099853515625,
+        "current_price": 389.7900085449219,
+        "high_price": 404.79998779296875,
+        "low_price": 378.010009765625,
+        "trading_volume": 96359200.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-12-10 00:00:00-05:00",
+        "open_price": 392.67999267578125,
+        "current_price": 400.989990234375,
+        "high_price": 409.7300109863281,
+        "low_price": 390.8500061035156,
+        "trading_volume": 97563600.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-12-11 00:00:00-05:00",
+        "open_price": 409.70001220703125,
+        "current_price": 424.7699890136719,
+        "high_price": 424.8800048828125,
+        "low_price": 402.3800048828125,
+        "trading_volume": 104287600.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-12-12 00:00:00-05:00",
+        "open_price": 424.8399963378906,
+        "current_price": 418.1000061035156,
+        "high_price": 429.29998779296875,
+        "low_price": 415.0,
+        "trading_volume": 87752200.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-12-13 00:00:00-05:00",
+        "open_price": 420.0,
+        "current_price": 436.2300109863281,
+        "high_price": 436.29998779296875,
+        "low_price": 415.7099914550781,
+        "trading_volume": 89000200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-12-16 00:00:00-05:00",
+        "open_price": 441.0899963378906,
+        "current_price": 463.0199890136719,
+        "high_price": 463.19000244140625,
+        "low_price": 436.1499938964844,
+        "trading_volume": 114083800.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-12-17 00:00:00-05:00",
+        "open_price": 475.8999938964844,
+        "current_price": 479.8599853515625,
+        "high_price": 483.989990234375,
+        "low_price": 457.510009765625,
+        "trading_volume": 130268400.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "TSLA",
+        "date_time": "2024-12-18 00:00:00-05:00",
+        "open_price": 466.3599853515625,
+        "current_price": 477.0299987792969,
+        "high_price": 478.0539855957031,
+        "low_price": 461.1099853515625,
+        "trading_volume": 36437129.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-09-25 00:00:00-04:00",
+        "open_price": 193.75,
+        "current_price": 192.52999877929688,
+        "high_price": 193.9499969482422,
+        "low_price": 192.16000366210938,
+        "trading_volume": 26391100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-09-26 00:00:00-04:00",
+        "open_price": 194.30999755859375,
+        "current_price": 191.16000366210938,
+        "high_price": 194.52999877929688,
+        "low_price": 189.5399932861328,
+        "trading_volume": 36334900.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-09-27 00:00:00-04:00",
+        "open_price": 190.67999267578125,
+        "current_price": 187.97000122070312,
+        "high_price": 190.89999389648438,
+        "low_price": 187.33999633789062,
+        "trading_volume": 36002300.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-09-30 00:00:00-04:00",
+        "open_price": 187.13999938964844,
+        "current_price": 186.3300018310547,
+        "high_price": 188.49000549316406,
+        "low_price": 184.64999389648438,
+        "trading_volume": 41583900.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-01 00:00:00-04:00",
+        "open_price": 184.89999389648438,
+        "current_price": 185.1300048828125,
+        "high_price": 186.19000244140625,
+        "low_price": 183.4499969482422,
+        "trading_volume": 36044900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-02 00:00:00-04:00",
+        "open_price": 184.44000244140625,
+        "current_price": 184.75999450683594,
+        "high_price": 186.60000610351562,
+        "low_price": 184.0399932861328,
+        "trading_volume": 23704100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-03 00:00:00-04:00",
+        "open_price": 183.0500030517578,
+        "current_price": 181.9600067138672,
+        "high_price": 183.44000244140625,
+        "low_price": 180.8800048828125,
+        "trading_volume": 30204300.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-04 00:00:00-04:00",
+        "open_price": 185.75,
+        "current_price": 186.50999450683594,
+        "high_price": 187.60000610351562,
+        "low_price": 183.60000610351562,
+        "trading_volume": 40890300.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-07 00:00:00-04:00",
+        "open_price": 182.9499969482422,
+        "current_price": 180.8000030517578,
+        "high_price": 183.60000610351562,
+        "low_price": 180.25,
+        "trading_volume": 42364200.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-08 00:00:00-04:00",
+        "open_price": 181.9199981689453,
+        "current_price": 182.72000122070312,
+        "high_price": 183.08999633789062,
+        "low_price": 180.9199981689453,
+        "trading_volume": 26372100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-09 00:00:00-04:00",
+        "open_price": 182.82000732421875,
+        "current_price": 185.1699981689453,
+        "high_price": 185.85000610351562,
+        "low_price": 182.0500030517578,
+        "trading_volume": 26343100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-10 00:00:00-04:00",
+        "open_price": 187.1300048828125,
+        "current_price": 186.64999389648438,
+        "high_price": 188.1300048828125,
+        "low_price": 185.8300018310547,
+        "trading_volume": 27785000.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-11 00:00:00-04:00",
+        "open_price": 186.6300048828125,
+        "current_price": 188.82000732421875,
+        "high_price": 189.92999267578125,
+        "low_price": 186.3000030517578,
+        "trading_volume": 25751600.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-14 00:00:00-04:00",
+        "open_price": 189.77999877929688,
+        "current_price": 187.5399932861328,
+        "high_price": 189.8300018310547,
+        "low_price": 187.36000061035156,
+        "trading_volume": 22614400.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-15 00:00:00-04:00",
+        "open_price": 187.6300048828125,
+        "current_price": 187.69000244140625,
+        "high_price": 188.41000366210938,
+        "low_price": 184.5800018310547,
+        "trading_volume": 32178900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-16 00:00:00-04:00",
+        "open_price": 187.0500030517578,
+        "current_price": 186.88999938964844,
+        "high_price": 187.77999877929688,
+        "low_price": 185.61000061035156,
+        "trading_volume": 23456800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-17 00:00:00-04:00",
+        "open_price": 188.22000122070312,
+        "current_price": 187.52999877929688,
+        "high_price": 188.94000244140625,
+        "low_price": 186.0,
+        "trading_volume": 25039400.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-18 00:00:00-04:00",
+        "open_price": 187.14999389648438,
+        "current_price": 188.99000549316406,
+        "high_price": 190.74000549316406,
+        "low_price": 186.27999877929688,
+        "trading_volume": 37417700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-21 00:00:00-04:00",
+        "open_price": 188.0500030517578,
+        "current_price": 189.07000732421875,
+        "high_price": 189.4600067138672,
+        "low_price": 186.39999389648438,
+        "trading_volume": 24639400.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-22 00:00:00-04:00",
+        "open_price": 188.35000610351562,
+        "current_price": 189.6999969482422,
+        "high_price": 191.52000427246094,
+        "low_price": 186.97999572753906,
+        "trading_volume": 29650600.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-23 00:00:00-04:00",
+        "open_price": 188.85000610351562,
+        "current_price": 184.7100067138672,
+        "high_price": 189.16000366210938,
+        "low_price": 183.69000244140625,
+        "trading_volume": 31937100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-24 00:00:00-04:00",
+        "open_price": 185.25,
+        "current_price": 186.3800048828125,
+        "high_price": 187.11000061035156,
+        "low_price": 183.86000061035156,
+        "trading_volume": 21647400.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-25 00:00:00-04:00",
+        "open_price": 187.85000610351562,
+        "current_price": 187.8300018310547,
+        "high_price": 190.4499969482422,
+        "low_price": 187.52999877929688,
+        "trading_volume": 29362100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-28 00:00:00-04:00",
+        "open_price": 189.57000732421875,
+        "current_price": 188.38999938964844,
+        "high_price": 190.2100067138672,
+        "low_price": 188.2100067138672,
+        "trading_volume": 27930800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-29 00:00:00-04:00",
+        "open_price": 188.5800018310547,
+        "current_price": 190.8300018310547,
+        "high_price": 191.4600067138672,
+        "low_price": 187.82000732421875,
+        "trading_volume": 35690200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-30 00:00:00-04:00",
+        "open_price": 194.6999969482422,
+        "current_price": 192.72999572753906,
+        "high_price": 195.61000061035156,
+        "low_price": 192.4199981689453,
+        "trading_volume": 37707600.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-10-31 00:00:00-04:00",
+        "open_price": 190.50999450683594,
+        "current_price": 186.39999389648438,
+        "high_price": 190.60000610351562,
+        "low_price": 185.22999572753906,
+        "trading_volume": 75146800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-01 00:00:00-04:00",
+        "open_price": 199.0,
+        "current_price": 197.92999267578125,
+        "high_price": 200.5,
+        "low_price": 197.02000427246094,
+        "trading_volume": 99687800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-04 00:00:00-05:00",
+        "open_price": 196.4499969482422,
+        "current_price": 195.77999877929688,
+        "high_price": 197.3300018310547,
+        "low_price": 194.30999755859375,
+        "trading_volume": 38492100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-05 00:00:00-05:00",
+        "open_price": 196.0399932861328,
+        "current_price": 199.5,
+        "high_price": 199.82000732421875,
+        "low_price": 195.99000549316406,
+        "trading_volume": 30564800.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-06 00:00:00-05:00",
+        "open_price": 200.00999450683594,
+        "current_price": 207.08999633789062,
+        "high_price": 207.5500030517578,
+        "low_price": 199.13999938964844,
+        "trading_volume": 72292200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-07 00:00:00-05:00",
+        "open_price": 207.44000244140625,
+        "current_price": 210.0500030517578,
+        "high_price": 212.25,
+        "low_price": 207.19000244140625,
+        "trading_volume": 52878400.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-08 00:00:00-05:00",
+        "open_price": 209.72000122070312,
+        "current_price": 208.17999267578125,
+        "high_price": 209.9600067138672,
+        "low_price": 207.44000244140625,
+        "trading_volume": 36075800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-11 00:00:00-05:00",
+        "open_price": 208.5,
+        "current_price": 206.83999633789062,
+        "high_price": 209.64999389648438,
+        "low_price": 205.58999633789062,
+        "trading_volume": 35456000.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-12 00:00:00-05:00",
+        "open_price": 208.3699951171875,
+        "current_price": 208.91000366210938,
+        "high_price": 209.5399932861328,
+        "low_price": 206.00999450683594,
+        "trading_volume": 38942900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-13 00:00:00-05:00",
+        "open_price": 209.39999389648438,
+        "current_price": 214.10000610351562,
+        "high_price": 215.08999633789062,
+        "low_price": 209.13999938964844,
+        "trading_volume": 46212900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-14 00:00:00-05:00",
+        "open_price": 214.16000366210938,
+        "current_price": 211.47999572753906,
+        "high_price": 215.89999389648438,
+        "low_price": 210.8800048828125,
+        "trading_volume": 42620300.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-15 00:00:00-05:00",
+        "open_price": 206.75999450683594,
+        "current_price": 202.61000061035156,
+        "high_price": 207.33999633789062,
+        "low_price": 199.61000061035156,
+        "trading_volume": 86591100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-18 00:00:00-05:00",
+        "open_price": 204.14999389648438,
+        "current_price": 201.6999969482422,
+        "high_price": 204.6699981689453,
+        "low_price": 200.9499969482422,
+        "trading_volume": 36512500.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-19 00:00:00-05:00",
+        "open_price": 199.3300018310547,
+        "current_price": 204.61000061035156,
+        "high_price": 205.3000030517578,
+        "low_price": 198.77999877929688,
+        "trading_volume": 31197900.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-20 00:00:00-05:00",
+        "open_price": 202.97999572753906,
+        "current_price": 202.8800048828125,
+        "high_price": 203.1300048828125,
+        "low_price": 199.4499969482422,
+        "trading_volume": 32769000.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-21 00:00:00-05:00",
+        "open_price": 203.49000549316406,
+        "current_price": 198.3800048828125,
+        "high_price": 203.49000549316406,
+        "low_price": 195.75,
+        "trading_volume": 58800000.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-22 00:00:00-05:00",
+        "open_price": 198.25,
+        "current_price": 197.1199951171875,
+        "high_price": 199.25999450683594,
+        "low_price": 196.75,
+        "trading_volume": 31530800.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-25 00:00:00-05:00",
+        "open_price": 199.27999877929688,
+        "current_price": 201.4499969482422,
+        "high_price": 201.9499969482422,
+        "low_price": 199.0,
+        "trading_volume": 40685700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-26 00:00:00-05:00",
+        "open_price": 201.89999389648438,
+        "current_price": 207.86000061035156,
+        "high_price": 208.0,
+        "low_price": 201.7899932861328,
+        "trading_volume": 41673700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-27 00:00:00-05:00",
+        "open_price": 206.97999572753906,
+        "current_price": 205.74000549316406,
+        "high_price": 207.63999938964844,
+        "low_price": 205.0500030517578,
+        "trading_volume": 28061600.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-11-29 00:00:00-05:00",
+        "open_price": 205.8300018310547,
+        "current_price": 207.88999938964844,
+        "high_price": 208.1999969482422,
+        "low_price": 204.58999633789062,
+        "trading_volume": 24892400.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-12-02 00:00:00-05:00",
+        "open_price": 209.9600067138672,
+        "current_price": 210.7100067138672,
+        "high_price": 212.99000549316406,
+        "low_price": 209.50999450683594,
+        "trading_volume": 39523200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-12-03 00:00:00-05:00",
+        "open_price": 210.30999755859375,
+        "current_price": 213.44000244140625,
+        "high_price": 214.02000427246094,
+        "low_price": 209.64999389648438,
+        "trading_volume": 32214800.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-12-04 00:00:00-05:00",
+        "open_price": 215.9600067138672,
+        "current_price": 218.16000366210938,
+        "high_price": 220.0,
+        "low_price": 215.75,
+        "trading_volume": 48745700.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-12-05 00:00:00-05:00",
+        "open_price": 218.02999877929688,
+        "current_price": 220.5500030517578,
+        "high_price": 222.14999389648438,
+        "low_price": 217.3000030517578,
+        "trading_volume": 41140200.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-12-06 00:00:00-05:00",
+        "open_price": 220.75,
+        "current_price": 227.02999877929688,
+        "high_price": 227.14999389648438,
+        "low_price": 220.60000610351562,
+        "trading_volume": 44178100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-12-09 00:00:00-05:00",
+        "open_price": 227.2100067138672,
+        "current_price": 226.08999633789062,
+        "high_price": 230.0800018310547,
+        "low_price": 225.6699981689453,
+        "trading_volume": 46819400.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-12-10 00:00:00-05:00",
+        "open_price": 226.08999633789062,
+        "current_price": 225.0399932861328,
+        "high_price": 229.05999755859375,
+        "low_price": 224.1999969482422,
+        "trading_volume": 31199900.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-12-11 00:00:00-05:00",
+        "open_price": 226.41000366210938,
+        "current_price": 230.25999450683594,
+        "high_price": 231.1999969482422,
+        "low_price": 226.25999450683594,
+        "trading_volume": 35385800.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-12-12 00:00:00-05:00",
+        "open_price": 229.8300018310547,
+        "current_price": 228.97000122070312,
+        "high_price": 231.08999633789062,
+        "low_price": 227.6300048828125,
+        "trading_volume": 28204100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-12-13 00:00:00-05:00",
+        "open_price": 228.39999389648438,
+        "current_price": 227.4600067138672,
+        "high_price": 230.1999969482422,
+        "low_price": 225.86000061035156,
+        "trading_volume": 28768100.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-12-16 00:00:00-05:00",
+        "open_price": 230.22999572753906,
+        "current_price": 232.92999267578125,
+        "high_price": 233.0,
+        "low_price": 228.00999450683594,
+        "trading_volume": 37552100.0,
+        "market_trend": "Upward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-12-17 00:00:00-05:00",
+        "open_price": 232.38999938964844,
+        "current_price": 231.14999389648438,
+        "high_price": 232.72999572753906,
+        "low_price": 227.85000610351562,
+        "trading_volume": 35918500.0,
+        "market_trend": "Downward"
+    },
+    {
+        "stock_symbol": "AMZN",
+        "date_time": "2024-12-18 00:00:00-05:00",
+        "open_price": 230.77000427246094,
+        "current_price": 230.66209411621094,
+        "high_price": 231.39990234375,
+        "low_price": 229.22999572753906,
+        "trading_volume": 7540141.0,
+        "market_trend": "Downward"
+    }
+]
